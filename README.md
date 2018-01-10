@@ -1,2 +1,3 @@
 # hello-world
-mathemagical
+
+Common Loaf, Tofino BC, 10 January 2018: it begins...
